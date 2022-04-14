@@ -1,0 +1,48 @@
+.character-card {
+    background: aliceblue;
+    border: solid black;
+    width: 350px;
+    height: 600px;
+    margin: 20px;
+    box-shadow: 5px 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.character-name {
+    background: rgba(97, 218, 251, 0.76);
+    font-family: solid fantasy;
+    font-size: 30px ;
+    margin-bottom: 0;
+}
+
+.details-character-card {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.detail {
+    margin: 10px;
+}
+
+.Image{
+    border: solid black;
+    border-radius: revert;
+}
+
+
+.ID {
+    background: rgba(128, 128, 128, 0.38);
+    backface-visibility: ;
+    width: content-box;
+    align-items: flex-start;
+
+}
+
+
