@@ -9,6 +9,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
 }
 
 .character-name {
@@ -39,7 +40,6 @@
 
 .ID {
     background: rgba(128, 128, 128, 0.38);
-    backface-visibility: ;
     width: content-box;
     align-items: flex-start;
 
