@@ -1,0 +1,52 @@
+.dataBase-title {
+    font-size: 50px;
+    text-align: center;
+    background: white;
+    margin-right: 30px;
+}
+
+.logo {
+    height: 5%;
+    width: 5%;
+    margin: 25px 25px;
+}
+
+.Title {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.Navigation {
+    font-size: large;
+    flex-direction: row;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #6dc8e5;
+    padding: 4px 0;
+    border-top: 3px solid #668BCC;
+    border-bottom: 3px solid #668BCC;
+    margin: 0;
+}
+
+.Navigation:link {
+    color: red
+}
+
+.Navigation:visited {
+    color: green
+}
+
+.Navigation:hover {
+    color: hotpink
+}
+
+.Navigation:active {
+    color:blue
+}
+
